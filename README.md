@@ -39,7 +39,7 @@ Neurocomputing 216, 192-199, 2016
 <font color=blue>8. Learning more distinctive representation by enhanced PCA network</font>  
 Y Liu, S Zhao, **Q Wang**, Q Gao  
 Neurocomputing 275, 924-931, 2018  
-<font color=blue>9. Angle Principal Component Analysis.</font> <a href="code_download/Angle_PCA.m" target="_blank">[code]</a> 
+<font color=blue>9. Angle Principal Component Analysis.</font> <a href="code_download/Angle_PCA.m" target="_blank">[code]</a>   
 **Q Wang**, Q Gao, X Gao, F Nie
 IJCAI, 2936-2942, 2017
 <font color=blue>10. Adaptive maximum margin analysis for image recognition</font>  
