@@ -9,7 +9,7 @@
 **2014~2019：**Ph. D of Engineering, School of Telecommunication Engineerings, Xidian University, Xi'an, China;  
 **2017~2018：**Visiting Ph. D Student, Northwestern University, Malden, America.  
 
-## Work Experiments
+## Work Experiences
 **2019~Present：**Lector, Xidian University，Xi'an, China.
 
 ## Publications
