@@ -107,4 +107,4 @@ J Cheng, **Q Wang**, Z Tao, D Xie, Q Gao
 
 
 ## 代码下载
-<a href="code_doenload/Angle_PCA.m" target="_blank">1. Code of Angle PCA </a>
+<a href="code_download/Angle_PCA.m" target="_blank">1. Code of Angle PCA </a>
