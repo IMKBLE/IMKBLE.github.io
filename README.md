@@ -14,7 +14,7 @@
 
 ## 主要学术成果
 ### 论文成果
-<font color=blue>1. Dimensionality reduction by integrating sparse representation and Fisher criterion and its applications</font>
+<font color=blue>1. Dimensionality reduction by integrating sparse representation and Fisher criterion and its applications[link](www.baidu.com)</font>
 Q Gao, **Q Wang**, Y Huang, X Gao, X Hong, H Zhang  
 IEEE Transactions on Image Processing 24 (12), 5684-5695, 2015  
 <font color=blue>2. L2,p-Norm Based PCA for Image Recognition</font>  
@@ -101,7 +101,9 @@ Proceedings of the IEEE International Conference on Computer Vision and Pattern 
 <font color=blue>29. Multi-View Attribute Graph Convolution Networks for Clustering</font>   
 J Cheng, **Q Wang**, Z Tao, D Xie, Q Gao  
 
-### 专利成果
+### 授权专利
+1. 刘阳，高全学，王勇，**王前前**。基于SRC-DP与LDA相结合的图像特征提取方法 [P]，中国，专利号：201510109065.4 授权日期：2018.03。
+2. 刘阳, 高全学，高新波，王勇，**王前前**。基于SRC与MFA相结合的图像分类方法[P]，中国，专利号：201510230206.8  授权日期：2018.08。
 
-## 承担科研项目
-### 
+
+## 代码下载
