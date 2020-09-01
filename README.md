@@ -10,7 +10,7 @@
 **2017~2018：**Visiting Ph. D Student, Northwestern University, Malden, America.  
 
 ## Work Experiences
-**2019~Present：**Lector, Xidian University，Xi'an, China.
+**2019~Present：**Lecturer, Xidian University，Xi'an, China.
 
 ## Publications
 <font color=blue>1. Dimensionality reduction by integrating sparse representation and Fisher criterion and its applications</font> 
