@@ -16,8 +16,7 @@
 <font color=blue>1. Dimensionality reduction by integrating sparse representation and Fisher criterion and its applications</font> 
 Q Gao, **Q Wang**, Y Huang, X Gao, X Hong, H Zhang  
 IEEE Transactions on Image Processing 24 (12), 5684-5695, 2015  
-<font color=blue>2. L2,p-Norm Based PCA for Image Recognition</font>
-<a href="code_download/L2_WeightedPCAMinSUM.m" target="_blank">[code]</a>     
+<font color=blue>2. L2,p-Norm Based PCA for Image Recognition</font><a href="code_download/L2_WeightedPCAMinSUM.m" target="_blank">[code]</a>     
 **Q Wang**, Q Gao, X Gao, F Nie  
 IEEE Transactions on Image Processing 27 (3), 1336-1346，2017  
 <font color=blue>3. Optimal mean two-dimensional principal component analysis with F-norm minimization  </font> 
