@@ -14,7 +14,7 @@
 
 ## 主要学术成果
 ### 论文成果
-<font color=blue>1. Dimensionality reduction by integrating sparse representation and Fisher criterion and its applications/font> [link](http://www.baidu.com)<
+<font color=blue>1. Dimensionality reduction by integrating sparse representation and Fisher criterion and its applications</font> 
 Q Gao, **Q Wang**, Y Huang, X Gao, X Hong, H Zhang  
 IEEE Transactions on Image Processing 24 (12), 5684-5695, 2015  
 <font color=blue>2. L2,p-Norm Based PCA for Image Recognition</font>  
@@ -107,3 +107,4 @@ J Cheng, **Q Wang**, Z Tao, D Xie, Q Gao
 
 
 ## 代码下载
+<a href="code_doenload/Angle_PCA.m" target="_blank">1. Code of Angle PCA </a>
