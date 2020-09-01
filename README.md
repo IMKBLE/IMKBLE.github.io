@@ -2,17 +2,12 @@
 ## 基本信息
 **姓名：**王前前
 
-**学校：**西安电子科技大学
-
-**邮箱：**qqwang@xidian.edu.cn
-
-**地址：**陕西省西安市雁塔区太白南路2号，710071
-
+**学校：**西安电子科技大学  
+**邮箱：**qqwang@xidian.edu.cn  
+**地址：**陕西省西安市雁塔区太白南路2号，710071  
 ## 教育经历
-**2010~2014：**兰州理工大学，专业：通信工程，学士；
-
-**2014~2019：**西安电子科技大学，专业：通信与信息系统，博士；
-
+**2010~2014：**兰州理工大学，专业：通信工程，学士；  
+**2014~2019：**西安电子科技大学，专业：通信与信息系统，博士；  
 **2017~2018：**美国西北大学，专业：机器学习与模式识别，访问学者。
 
 ## 工作经历
@@ -20,45 +15,45 @@
 
 ## 主要学术成果
 ### 论文成果
-<font color=blue>**Dimensionality reduction by integrating sparse representation and Fisher criterion and its applications**</font>
-Q Gao, Q Wang, Y Huang, X Gao, X Hong, H Zhang
-IEEE Transactions on Image Processing 24 (12), 5684-5695, 2015
- -Norm Based PCA for Image Recognition
+<font color=blue>1. Dimensionality reduction by integrating sparse representation and Fisher criterion and its applications</font>
+Q Gao, Q Wang, Y Huang, X Gao, X Hong, H Zhang  
+IEEE Transactions on Image Processing 24 (12), 5684-5695, 2015  
+<font color=blue>2. L2,p-Norm Based PCA for Image Recognition</font>  
+Q Wang, Q Gao, X Gao, F Nie  
+IEEE Transactions on Image Processing 27 (3), 1336-1346，2017  
+<font color=blue>3. Optimal mean two-dimensional principal component analysis with F-norm minimization  </font>  
+Q Wang, Q Gao, X Gao, F Nie  
+Pattern recognition 68, 286-294， 2017  
+<font color=blue>4. Robust DLPP With Nongreedy  -Norm Minimization and Maximization</font>  
+Q Wang, Q Gao, D Xie, X Gao, Y Wang  
+IEEE transactions on neural networks and learning systems 29 (3), 738-743，	2016  
+<font color=blue>5. Partial multi-view clustering via consistent GAN</font>  
+Q Wang, Z Ding, Z Tao, Q Gao, Y Fu  
+2018 IEEE International Conference on Data Mining (ICDM), 1290-1295, 2018  
+<font color=blue>6. Two-dimensional PCA with F-norm minimization</font>  
+Q Wang, Q Gao  
+Thirty-First AAAI Conference on Artificial Intelligence, 2017  
+<font color=blue>7. On the schatten norm for matrix based subspace learning and classification</font>  
+Q Wang, F Chen, Q Gao, X Gao, F Nie  
+Neurocomputing 216, 192-199, 2016  
+<font color=blue>8. Learning more distinctive representation by enhanced PCA network</font>  
+Y Liu, S Zhao, Q Wang, Q Gao  
+Neurocomputing 275, 924-931, 2018  
+<font color=blue>9. Angle Principal Component Analysis.</font>  
 Q Wang, Q Gao, X Gao, F Nie
-IEEE Transactions on Image Processing 27 (3), 1336-1346	22	2017
-Optimal mean two-dimensional principal component analysis with F-norm minimization
-Q Wang, Q Gao, X Gao, F Nie
-Pattern recognition 68, 286-294	20	2017
-Robust DLPP With Nongreedy  -Norm Minimization and Maximization
-Q Wang, Q Gao, D Xie, X Gao, Y Wang
-IEEE transactions on neural networks and learning systems 29 (3), 738-743	20	2016
-Partial multi-view clustering via consistent GAN
-Q Wang, Z Ding, Z Tao, Q Gao, Y Fu
-2018 IEEE International Conference on Data Mining (ICDM), 1290-1295	19	2018
-Two-dimensional PCA with F-norm minimization
-Q Wang, Q Gao
-Thirty-First AAAI Conference on Artificial Intelligence	16	2017
-On the schatten norm for matrix based subspace learning and classification
-Q Wang, F Chen, Q Gao, X Gao, F Nie
-Neurocomputing 216, 192-199	16	2016
-Learning more distinctive representation by enhanced PCA network
-Y Liu, S Zhao, Q Wang, Q Gao
-Neurocomputing 275, 924-931	11	2018
-Angle Principal Component Analysis.
-Q Wang, Q Gao, X Gao, F Nie
-IJCAI, 2936-2942	11	2017
-Adaptive maximum margin analysis for image recognition
-Q Wang, L Ma, Q Gao, Y Li, Y Huang, Y Liu
-Pattern Recognition 61, 339-347	11	2017
-Robust 2DPCA and its application
-Q Wang, Q Gao
-Proceedings of the IEEE Conference on Computer Vision and Pattern …	9	2016
-Multi-view spectral clustering via integrating global and local graphs
-D Xie, Q Gao, Q Wang, S Xiao
-IEEE Access 7, 31197-31206	8	2019
-Trace ratio 2DLDA with L1-norm optimization
-M Li, J Wang, Q Wang, Q Gao
-Neurocomputing 266, 216-225	8	2017
+IJCAI, 2936-2942, 2017
+<font color=blue>10. Adaptive maximum margin analysis for image recognition</font>  
+Q Wang, L Ma, Q Gao, Y Li, Y Huang, Y Liu  
+Pattern Recognition 61, 339-347, 2017  
+<font color=blue>11. Robust 2DPCA and its application</font>  
+Q Wang, Q Gao  
+Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2016  
+<font color=blue>12. Multi-view spectral clustering via integrating global and local graphs</font>  
+D Xie, Q Gao, Q Wang, S Xiao  
+IEEE Access 7, 31197-31206, 2019  
+<font color=blue>13. Trace ratio 2DLDA with L1-norm optimization</font>  
+M Li, J Wang, Q Wang, Q Gao  
+Neurocomputing 266, 216-225, 2017  
 Deep Adversarial Multi-view Clustering Network.
 Z Li, Q Wang, Z Tao, Q Gao, Z Yang
 IJCAI, 2952-2958	7	2019
