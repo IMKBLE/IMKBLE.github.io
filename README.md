@@ -1,26 +1,27 @@
-# 个人主页
-## 基本信息
-**姓名：**王前前  
-**学校：**西安电子科技大学  
-**邮箱：**qqwang@xidian.edu.cn  
-**地址：**陕西省西安市雁塔区太白南路2号，710071  
-## 教育经历
-**2010~2014：**兰州理工大学，专业：通信工程，学士；  
-**2014~2019：**西安电子科技大学，专业：通信与信息系统，博士；  
-**2017~2018：**美国西北大学，专业：机器学习与模式识别，访问学者。
+# Personal Homepage
+## Personal Information
+**Name：**Wang Qianqian  
+**Affiliation：**Xidian University  
+**Mail：**qqwang@xidian.edu.cn  
+**Address：**No.2 South Taibai Road, Shaanxi, China，710071  
+## Educations    
+**2010~2014：**Bachelor of Engineering, School of Telecommunication Engineerings, Lanzhou University of Technology，Lanzhou, China;    
+**2014~2019：**Ph. D of Engineering, School of Telecommunication Engineerings, Xidian University, Xi'an, China;  
+**2017~2018：**Visiting Ph. D Student, Northwestern University, Malden, America.  
 
-## 工作经历
-**2019 至今：**西安电子科技大学，讲师。
+## Work Experiments
+**2019~Present：**Lector, Xidian University，Xi'an, China.
 
-## 主要学术成果
-### 论文成果
+## Publications
 <font color=blue>1. Dimensionality reduction by integrating sparse representation and Fisher criterion and its applications</font> 
 Q Gao, **Q Wang**, Y Huang, X Gao, X Hong, H Zhang  
 IEEE Transactions on Image Processing 24 (12), 5684-5695, 2015  
-<font color=blue>2. L2,p-Norm Based PCA for Image Recognition</font>  
+<font color=blue>2. L2,p-Norm Based PCA for Image Recognition</font>
+<a href="code_download/L2_WeightedPCAMinSUM.m" target="_blank">[code]</a>     
 **Q Wang**, Q Gao, X Gao, F Nie  
 IEEE Transactions on Image Processing 27 (3), 1336-1346，2017  
-<font color=blue>3. Optimal mean two-dimensional principal component analysis with F-norm minimization  </font>  
+<font color=blue>3. Optimal mean two-dimensional principal component analysis with F-norm minimization  </font> 
+<a href="code_download/OM_F2DPCA.m" target="[code]</a>    
 **Q Wang**, Q Gao, X Gao, F Nie  
 Pattern recognition 68, 286-294， 2017  
 <font color=blue>4. Robust DLPP With Nongreedy  -Norm Minimization and Maximization</font>  
@@ -29,7 +30,8 @@ IEEE transactions on neural networks and learning systems 29 (3), 738-743，	201
 <font color=blue>5. Partial multi-view clustering via consistent GAN</font>  
 **Q Wang**, Z Ding, Z Tao, Q Gao, Y Fu  
 2018 IEEE International Conference on Data Mining (ICDM), 1290-1295, 2018  
-<font color=blue>6. Two-dimensional PCA with F-norm minimization</font>  
+<font color=blue>6. Two-dimensional PCA with F-norm minimization</font>
+<a href="code_download/F2DPCA.m" target="_blank">[code] </a>   
 **Q Wang**, Q Gao  
 Thirty-First AAAI Conference on Artificial Intelligence, 2017  
 <font color=blue>7. On the schatten norm for matrix based subspace learning and classification</font>  
@@ -38,7 +40,7 @@ Neurocomputing 216, 192-199, 2016
 <font color=blue>8. Learning more distinctive representation by enhanced PCA network</font>  
 Y Liu, S Zhao, **Q Wang**, Q Gao  
 Neurocomputing 275, 924-931, 2018  
-<font color=blue>9. Angle Principal Component Analysis.</font>  
+<font color=blue>9. Angle Principal Component Analysis.</font> <a href="code_download/Angle_PCA.m" target="_blank">[code]</a> 
 **Q Wang**, Q Gao, X Gao, F Nie
 IJCAI, 2936-2942, 2017
 <font color=blue>10. Adaptive maximum margin analysis for image recognition</font>  
@@ -101,13 +103,16 @@ Proceedings of the IEEE International Conference on Computer Vision and Pattern 
 <font color=blue>29. Multi-View Attribute Graph Convolution Networks for Clustering</font>   
 J Cheng, **Q Wang**, Z Tao, D Xie, Q Gao  
 
-### 授权专利
-1. 刘阳，高全学，王勇，**王前前**。基于SRC-DP与LDA相结合的图像特征提取方法 [P]，中国，专利号：201510109065.4 授权日期：2018.03。
-2. 刘阳, 高全学，高新波，王勇，**王前前**。基于SRC与MFA相结合的图像分类方法[P]，中国，专利号：201510230206.8  授权日期：2018.08。
+## Patents
+<font color=blue>1. An Image Pattern Extraction Method Based on SRC-DP and LDA</font>   
+Y Liu, Q Gao, Y Wang, **Q Wang**  
+Filing No. 201510109065.4 Issue Date: 2018.03  
+<font color=blue>2. An Image Classification Method Based on SRC-DP and MFC</font>   
+Y Liu, Q Gao, X Gao, **Q Wang**  
+Filing No. 201510230206.8, Issue Date: 2018.08   
 
 
 ## 代码下载
-<a href="code_download/Angle_PCA.m" target="_blank">1. Code of Angle PCA </a>   
+  
 <a href="code_download/F2DPCA.m" target="_blank">2. Code of F2DPCA </a>   
 <a href="code_download/L2_WeightedPCAMinSUM.m" target="_blank">3. Code of L2-based Weighted PCA</a>   
-<a href="code_download/OM_F2DPCA.m" target="_blank">4. Code of OM_F2DPCA</a>   
