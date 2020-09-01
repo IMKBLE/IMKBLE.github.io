@@ -14,7 +14,7 @@
 
 ## 主要学术成果
 ### 论文成果
-<font color=blue>1. Dimensionality reduction by integrating sparse representation and Fisher criterion and its applications[link](www.baidu.com)</font>
+<font color=blue>1. Dimensionality reduction by integrating sparse representation and Fisher criterion and its applications[link](http://www.baidu.com)</font>
 Q Gao, **Q Wang**, Y Huang, X Gao, X Hong, H Zhang  
 IEEE Transactions on Image Processing 24 (12), 5684-5695, 2015  
 <font color=blue>2. L2,p-Norm Based PCA for Image Recognition</font>  
