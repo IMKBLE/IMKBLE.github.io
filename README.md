@@ -16,13 +16,14 @@
 <font color=blue>1. Dimensionality reduction by integrating sparse representation and Fisher criterion and its applications</font> 
 Q Gao, **Q Wang**, Y Huang, X Gao, X Hong, H Zhang  
 IEEE Transactions on Image Processing 24 (12), 5684-5695, 2015  
-<font color=blue>2. L2,p-Norm Based PCA for Image Recognition</font><a href="code_download/L2_WeightedPCAMinSUM.m" target="_blank">[code]</a>     
+<font color=blue>2. L2,p-Norm Based PCA for Image Recognition</font>        
 **Q Wang**, Q Gao, X Gao, F Nie  
 IEEE Transactions on Image Processing 27 (3), 1336-1346，2017  
+<a href="code_download/L2_WeightedPCAMinSUM.m" target="_blank">[code]</a>
 <font color=blue>3. Optimal mean two-dimensional principal component analysis with F-norm minimization  </font> 
-<a href="code_download/OM_F2DPCA.m" target="_blank"[code]</a>    
 **Q Wang**, Q Gao, X Gao, F Nie  
 Pattern recognition 68, 286-294， 2017  
+<a href="code_download/OM_F2DPCA.m" target="_blank"[code]</a>    
 <font color=blue>4. Robust DLPP With Nongreedy  -Norm Minimization and Maximization</font>  
 **Q Wang**, Q Gao, D Xie, X Gao, Y Wang  
 IEEE transactions on neural networks and learning systems 29 (3), 738-743，	2016  
@@ -30,18 +31,19 @@ IEEE transactions on neural networks and learning systems 29 (3), 738-743，	201
 **Q Wang**, Z Ding, Z Tao, Q Gao, Y Fu  
 2018 IEEE International Conference on Data Mining (ICDM), 1290-1295, 2018  
 <font color=blue>6. Two-dimensional PCA with F-norm minimization</font>
-<a href="code_download/F2DPCA.m" target="_blank">[code] </a>   
 **Q Wang**, Q Gao  
 Thirty-First AAAI Conference on Artificial Intelligence, 2017  
+<a href="code_download/F2DPCA.m" target="_blank">[code] </a>   
 <font color=blue>7. On the schatten norm for matrix based subspace learning and classification</font>  
 **Q Wang**, F Chen, Q Gao, X Gao, F Nie  
 Neurocomputing 216, 192-199, 2016  
 <font color=blue>8. Learning more distinctive representation by enhanced PCA network</font>  
 Y Liu, S Zhao, **Q Wang**, Q Gao  
 Neurocomputing 275, 924-931, 2018  
-<font color=blue>9. Angle Principal Component Analysis.</font> <a href="code_download/Angle_PCA.m" target="_blank">[code]</a>   
+<font color=blue>9. Angle Principal Component Analysis.</font> 
 **Q Wang**, Q Gao, X Gao, F Nie
-IJCAI, 2936-2942, 2017
+IJCAI, 2936-2942, 2017  
+<a href="code_download/Angle_PCA.m" target="_blank">[code]</a>   
 <font color=blue>10. Adaptive maximum margin analysis for image recognition</font>  
 **Q Wang**, L Ma, Q Gao, Y Li, Y Huang, Y Liu  
 Pattern Recognition 61, 339-347, 2017  
@@ -111,7 +113,3 @@ Y Liu, Q Gao, X Gao, **Q Wang**
 Filing No. 201510230206.8, Issue Date: 2018.08   
 
 
-## 代码下载
-  
-<a href="code_download/F2DPCA.m" target="_blank">2. Code of F2DPCA </a>   
-<a href="code_download/L2_WeightedPCAMinSUM.m" target="_blank">3. Code of L2-based Weighted PCA</a>   
