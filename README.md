@@ -23,7 +23,7 @@ IEEE Transactions on Image Processing 27 (3), 1336-1346，2017
 <font color=blue>3. Optimal mean two-dimensional principal component analysis with F-norm minimization  </font> 
 **Q Wang**, Q Gao, X Gao, F Nie  
 Pattern recognition 68, 286-294， 2017  
-<a href="code_download/OM_F2DPCA.m" target="_blank"[code]</a>    
+<a href="code_download/OM_F2DPCA.m" target="_blank">[code]</a>    
 <font color=blue>4. Robust DLPP With Nongreedy  -Norm Minimization and Maximization</font>  
 **Q Wang**, Q Gao, D Xie, X Gao, Y Wang  
 IEEE transactions on neural networks and learning systems 29 (3), 738-743，	2016  
@@ -89,19 +89,16 @@ IEEE Access 7, 126651-126661, 2019
 <font color=blue>24. Adaptive Semi-Supervised Classification by Joint Global and Local Graph</font>   
 S Deng, **Q Wang**, Q Gao  
 IEEE Access 7, 87212-87222, 2019  
-<font color=blue>25. The Climate Impact of Aerosols on Lightning: Is it Detectable from 2 Long-term Aerosol and Meteorological Data? </font>   
-**Q Wang**, Z Li, J Guo, C Zhao, M Cribb  
-Atmos. Chem. Phys 18 (17), 12797-12816, 2018  
-<font color=blue>26. Generative Partial Multi-View Clustering</font>   
+<font color=blue>25. Generative Partial Multi-View Clustering</font>   
 **Q Wang**, Z Ding, Z Tao, Q Gao, Y Fu  
 arXiv preprint arXiv:2003.13088, 2020  
-<font color=blue>27. Cross-Modal Subspace Clustering via Deep Canonical Correlation Analysis.</font>   
+<font color=blue>26. Cross-Modal Subspace Clustering via Deep Canonical Correlation Analysis.</font>   
 Q Gao, H Lian, **Q Wang**, G Sun  
 AAAI, 3938-3945, 2020  
-<font color=blue>28. Tensor Linear Regression and Its Application to Color Face Recognition</font>   
+<font color=blue>27. Tensor Linear Regression and Its Application to Color Face Recognition</font>   
 Q Gao, J Cheng, D Xie, P Zhang, W Xia, **Q Wang**  
 Proceedings of the IEEE International Conference on Computer Vision and Pattern Recognition,	2019  
-<font color=blue>29. Multi-View Attribute Graph Convolution Networks for Clustering</font>   
+<font color=blue>28. Multi-View Attribute Graph Convolution Networks for Clustering</font>   
 J Cheng, **Q Wang**, Z Tao, D Xie, Q Gao  
 
 ## Patents
