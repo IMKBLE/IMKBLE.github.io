@@ -108,3 +108,6 @@ J Cheng, **Q Wang**, Z Tao, D Xie, Q Gao
 
 ## 代码下载
 <a href="code_download/Angle_PCA.m" target="_blank">1. Code of Angle PCA </a>
+<a href="code_download/F2DPCA.m" target="_blank">2. Code of F2DPCA </a>
+<a href="code_download/L2_WeightedPCAMinSUM.m" target="_blank">3. Code of L2-based Weighted PCA</a>
+<a href="code_download/OM_F2DPCA.m" target="_blank">4. Code of OM_F2DPCA</a>
