@@ -20,7 +20,7 @@ IEEE Transactions on Image Processing 24 (12), 5684-5695, 2015
 **Q Wang**, Q Gao, X Gao, F Nie  
 IEEE Transactions on Image Processing 27 (3), 1336-1346，2017  
 <font color=blue>3. Optimal mean two-dimensional principal component analysis with F-norm minimization  </font> 
-<a href="code_download/OM_F2DPCA.m" target="[code]</a>    
+<a href="code_download/OM_F2DPCA.m" target="_blank"[code]</a>    
 **Q Wang**, Q Gao, X Gao, F Nie  
 Pattern recognition 68, 286-294， 2017  
 <font color=blue>4. Robust DLPP With Nongreedy  -Norm Minimization and Maximization</font>  
