@@ -30,7 +30,7 @@ IEEE transactions on neural networks and learning systems 29 (3), 738-743，	201
 <font color=blue>5. Partial multi-view clustering via consistent GAN</font>  
 **Q Wang**, Z Ding, Z Tao, Q Gao, Y Fu  
 2018 IEEE International Conference on Data Mining (ICDM), 1290-1295, 2018  
-<a href="code_download/BDGP.rar" target="_blank">[code]</a>  
+<a href="https://github.com/IMKBLE/BDGP" target="_blank">[code]</a>  
 <font color=blue>6. Two-dimensional PCA with F-norm minimization</font>
 **Q Wang**, Q Gao  
 Thirty-First AAAI Conference on Artificial Intelligence, 2017  
