@@ -1,0 +1,44 @@
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,400italic,700italic,700);
+
+body {
+  /*font: 16px/1.5 Arial, Helvetica, sans-serif;*/
+  font-family: Optima, Tahoma, Palatino, serif;
+  color:#000;
+  font-weight:400;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Arial, Helvetica, sans-serif;
+  color:#000;
+  margin:0 0 10px;
+}
+
+
+a {
+  /*font: 16px/1.5 Arial, Helvetica, sans-serif;*/
+  color:#2E86C1;
+  text-decoration:none;
+}
+
+a small {
+  font-size:14px;
+  color:#E74C3C;
+  margin-top:-0.3em;
+}
+
+hr {
+  border:0;
+  background:#d0d0d0;
+  height:2px;
+  margin:0 0 10px;
+}
+
+
+ul {
+	list-style-position: outside;
+	list-style-type: square;
+}
+
+img {
+    border: none;
+}
